@@ -1,0 +1,26 @@
+.panda-nav,.panda-slide{
+    background-color: #FEEAE9;
+    border-radius: .7rem;
+    
+}
+
+.panda-slide{
+    margin-top: 6rem;
+}
+.panda-text{
+    font-weight: bold;
+    color: #FF3B8D;
+}
+.items img{
+    width: 30%;
+}
+.panda-items{
+    border-radius: .7rem;
+}
+.panda-footer{
+    height: 400px;
+    background-color: #FCEAE8;
+}
+.footer-button{
+    background-color: pink;
+}
